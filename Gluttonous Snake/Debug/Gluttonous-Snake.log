@@ -1,0 +1,3 @@
+﻿  snake.cpp
+e:\vs2017 project\gluttonous-snake\gluttonous-snake\snake.cpp(135): warning C4715: “CSnake::GetDir”: 不是所有的控件路径都返回值
+  Gluttonous-Snake.vcxproj -> E:\vs2017 project\Gluttonous-Snake\Debug\Gluttonous-Snake.exe
